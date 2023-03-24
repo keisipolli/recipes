@@ -3,6 +3,6 @@ export default {}
 </script>
 <template>
   <div>
-    <h1>Online Recipe Book</h1>
+    <h1>Sign In</h1>
   </div>
 </template>
